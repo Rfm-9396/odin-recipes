@@ -1,0 +1,1 @@
+This project is about learning basic html and css
